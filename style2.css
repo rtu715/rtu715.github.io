@@ -5,7 +5,9 @@ html {
 
 body {
   margin: 0px;
+  opacity: 0;
 }
+
 
 #header{
 	color: white;
