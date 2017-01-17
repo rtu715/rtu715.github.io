@@ -3,6 +3,10 @@ html {
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
+body {
+  margin: 0px;
+}
+
 #header{
 	color: white;
   font-size: 150%;
@@ -40,4 +44,9 @@ html {
   pointer-events: none;
 }
 
+.cooltext {
+  color: #42cbad;
+  font-weight: 700;
+  line-height: 40px;
+}
 
