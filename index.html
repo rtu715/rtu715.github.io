@@ -1,46 +1,93 @@
-<!DOCTYPE html> 
-
+<!DOCTYPE html>
 <html>
-	<head>
-		<title> Renbo Tu </title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <title>Research Projects</title> 
+  </head>
 
-		<!-- <link href = 'newstyle.css' rel= 'stylesheet' type = 'text/css'> -->
-		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-		<link href = 'style2.css' rel = 'stylesheet' type = 'text/css'>
+  <style>
+    html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+    .row::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
 
-	</head>
+    [class*="col-"] {
+      float: left;
+      padding: 15px;
+    }
 
-	<body>
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+  </style>
+  <body class="w3-light-grey w3-content" style="max-width:1600px">
+  <div class="w3-bar w3-border w3-black">
+        <a href="/" class="w3-bar-item w3-button w3-hover-none w3-text-grey w3-hover-text-white">Projects</a>
+        <a href="/About" class="w3-bar-item w3-button w3-hover-none w3-text-grey w3-hover-text-white">About</a>
+   </div>
 
-		<div id ='header'>
-			<h1 style = 'text-align : center;'> <strong> Renbo Tu 涂仁博 </strong> </h1>
-			<hr width = 88%>
+   <div class="w3-row-padding">
+    <div class="w3-third w3-container w3-margin-bottom w3-margin-top">
+      <img src="/Images/smart_robot.png" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white">
+        <p><b><center>Multi-Agent Communication</center></b></p>
+        <p>Distributed Reinforcement Learning approach to Multi-Agent Path Finding. Fully differentiable communication through message
+        discretization and noise injection.</p>
+        <!--<p><b><center>(<a href="/Project/smart_robot">Read More</a>)</center></b></p> -->
+      </div>
+    </div>
+    <div class="w3-third w3-container w3-margin-bottom w3-margin-top">
+      <img src="/Images/AWS.png" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white">
+        <p><b><center>DenseGAN</center></b></p>
+        <p>Adaptation of FisherGAN to incorporate skip connections and dense blocks from DenseNet. Trained on CelebA and CIFAR10 with better inception scores on generated images.</p>
+      </div>
+    </div>
+    <div class="w3-third w3-container w3-margin-bottom w3-margin-top">
+      <img src="/Images/MIMXRT.png" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white">
+        <p><b><center>Efficient Embedded System</center></b></p>
+        <p>Developed pipelines and drivers for i.MX RT1060, which is is a PCB featuring the Arm® Cortex®-M7 core. Performed images categorization and features detection on this board.</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="w3-row-padding">
+    <div class="w3-third w3-container w3-margin-bottom w3-margin-top">
+      <img src="/Images/giant_emoji.jpeg" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white">
+        <p><b><center>iBEGOO: Digital Storytelling</center></b></p>
+        <p>Platform for storytellers to write interactive narratives for immersive (AR) experiences. Worked on backend
+        scalable data storage and data anonymization.</p>
+      </div>
+    </div>
+    <div class="w3-third w3-container w3-margin-bottom w3-margin-top">
+      <img src="/Images/salamander.gif" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white">
+        <p><b><center>ConEd Maintenance Optimization</center></b></p>
+        <p>Part of Con Edison-led Smart Grid project to apply Dynamic Treatment Regimes to formulate optimized repair policies. Worked on 
+        decision-tree classification of accidents.</p>
+      </div>
+    </div>
+  
 
-		</div>
-
-		<div id ='bio'>
-			<h3> More about me... </h3>
-			<p> I was born in 1998 and lived in Beijing for 14 years. I went to the Experimental High School attached to BNU until travelling to Massachusetts in 2013 for Deerfield Academy. After spending 4 years there, I graduated in 2016 to attend Columbia University as a prospective CS major. Connect with me in the following ways! </p>
-			<a href = "https://www.facebook.com/robin.tu.56" > <img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png' style = 'width: 50px; height: 50px'></a>
-			<a href = 'https://www.linkedin.com/in/renbotu'> <img src = 'https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png' style = 'width: 50px; height: 50px'> </a>
-		</div>
-
-		<div>
-			<img  class ='wechat' src = 'https://raw.githubusercontent.com/rtu715/rtu715.github.io/master/IMG_0362.JPG' style = 'width: 100px; height: 100px'>
-		</div>
-
-		<div class="video-background">
-    		<div class="video-foreground">
-      		<iframe src="https://www.youtube.com/embed/W0LHTWG-UmQ?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=W0LHTWG-UmQ" frameborder="0" allowfullscreen></iframe>
-    		</div>
-  		</div>
-
-  		<script src = 'https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'> </script>
-
-  		<script src = 'index.js'></script>
-
-	</body>
-
-
+  </body>
 </html>
+
+
