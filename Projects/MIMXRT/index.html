@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <title>Embedded System</title> 
+  </head>
+
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <style>
+    html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+    .row::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+
+    [class*="col-"] {
+      float: left;
+      padding: 15px;
+    }
+
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+  </style>
+  <body class="w3-content" style="max-width:1600px">
+    <div class="w3-bar w3-border w3-black">
+          <a href="/" class="w3-bar-item w3-button w3-hover-none w3-text-grey w3-hover-text-white">Projects</a>
+          <a href="/About" class="w3-bar-item w3-button w3-hover-none w3-text-grey w3-hover-text-white">About</a>
+    </div>
+
+    <h1><center>Efficient Embedded System</center></h1>
+	<div class="w3-row-padding w3-margin-bottom w3-margin-top">
+      <div class="w3-third">
+        <img src="/Images/1064.PNG" style="width:100%;" class="w3-hover-opacity">
+      </div>
+	  <div class="w3-third">
+		NXP iMXRT 106X embedded board
+		<ul>
+		  <li>Small and low power.
+		  <li>High efficiency with sufficient processing power (Cortex-M7 @ 600MHz).
+		</ul>
+		Purpose:
+		<ul>
+		  <li>Process image on the board right after capturing with camera.
+		  <li>Simple computer vision and simple neural network can be realized on the board.
+		</ul>
+      </div>
+	  <div class="w3-third">
+		<img src="/Images/lcd.jpg" style="width:100%;" class="w3-hover-opacity">
+      </div>
+     
+    </div>
+	
+	<div class="w3-row-padding w3-margin-bottom w3-margin-top">
+      <div class="w3-half">
+        <iframe width="100%" height="400" src="https://www.youtube.com/embed/oC9C0Q0fS7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="w3-half">
+	    <h2><b>Performed CIFAR-10 on the board</b></h2><br>
+		Whole pipeline using Camera to take in raw picture and let MIMXRT-1060 board to recognize the category using pre-trained parameters and shown result on the LCD board in real time.</br>
+		<ul>
+		  <li>The camera takes in a picture which used to categorize. 
+		  <li>This image is then downsized and transferred from RGB565 TO RGB888. This transferred image then goes through a CIFAR10 pretrained NN. 
+		  <li>The system uses RTOS(Real Time Operating System) to switch task between capturing images and Neural Network Inference automatically.
+		  <li>Self-Made GUI to display categorization result
+		  <li><a href = "https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR10 Category list</a>
+		</ul>
+      </div>
+    </div>
+	
+		<div class="w3-row-padding w3-margin-bottom w3-margin-top">
+      <div class="w3-half">
+	    <h2><b>Performed fasteners categorization on the board</b></h2><br>
+		Whole pipeline using Camera to take in raw picture and let MIMXRT-1060 board to recognize the category using pre-trained parameters and shown result on the LCD board in real time.</br>
+		<ul>
+		  <li>Newest NXP elq Library
+		  <li>Pretrained model in tensorflow lite
+		  <li>Self made GUI and environment which combines camera, lcd and tensorflow lite
+		  <li>The system uses RTOS(Real Time Operating System) to switch task between capture images and Neural Network Inference automatically.
+		</ul>
+      </div>
+	  <div class="w3-half">
+        <iframe width="100%" height="400" src="https://www.youtube.com/embed/d9_1Oo7FQTw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+
+	<div class="w3-row-padding w3-margin-bottom w3-margin-top">
+      <div class="w3-half">
+        <iframe width="100%" height="300" src="https://www.youtube.com/embed/f1EptJzHL20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="w3-half">
+	    <h2><b>Performed 2D features extraction on the board</b></h2><br>
+		Image feature detection run on the board in real time.</br>
+		<ul>
+		  <li>Delay is short.
+		  <li>Used very little computing power.
+		</ul>
+      </div>
+    </div>
+  
+  </body>
+</html>
+
+
