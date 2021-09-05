@@ -17,8 +17,10 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - GitHub: "https://github.com/rtu715"
+    - Google Scholar: "https://scholar.google.com/citations?user=kxVvqtAAAAAJ&hl=en"
     - LinkedIn: "https://www.linkedin.com/in/renbotu/"
-  My Lab's Research: "https://www.cs.cmu.edu/~atalwalk/research.html"
+
+  NAS-Bench-360: "https://rtu715.github.io/NAS-Bench-360/"
 
 # --- Logo --- #
 

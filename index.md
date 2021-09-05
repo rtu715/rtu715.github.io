@@ -2,7 +2,7 @@
 layout: page
 title: Renbo Tu 
 meta-title: About me
-subtitle: "For a start, my favourite quote is, <br> Do what you love, love what you do."
+subtitle: "Sapere aude! 'Have courage to use your own understanding!' -- that is the motto of enlightenment. - Immanuel Kant"
 ---
 
 <div id="aboutme-section">
