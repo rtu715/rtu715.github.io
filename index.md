@@ -2,7 +2,9 @@
 layout: page
 title: Renbo Tu 
 meta-title: About me
-subtitle: "Sapere aude! 'Have courage to use your own understanding!' -- that is the motto of enlightenment. - Immanuel Kant"
+subtitle: "Sapere aude! 'Have courage to use your own understanding!' -- that is the motto of enlightenment. 
+
+- Immanuel Kant"
 ---
 
 <div id="aboutme-section">
