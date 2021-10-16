@@ -23,3 +23,4 @@ title: About me
 
 [Shutdown: How Covid Shook the World's Economy - Adam Tooze](https://www.theguardian.com/books/2021/sep/10/shutdown-by-adam-tooze-review-how-covid-shook-the-world-economy)
 
+[Reckoning with Matter: Calculating Machines, Innovation, and Thinking about Thinking from Pascal to Babbage - Matthew Jones](https://www.amazon.com/Reckoning-Matter-Calculating-Machines-Innovation/dp/022641146X)
