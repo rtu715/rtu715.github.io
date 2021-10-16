@@ -20,17 +20,17 @@ My research is motivated by developing ML tools and frameworks to benefit variou
 <h2> Select Publications </h2><br>
 
 <a href="https://arxiv.org/abs/2110.05668"><u>NAS-Bench-360: Benchmarking Diverse Tasks for Neural Architecture Search</u></a><br>
-<i><b>Renbo Tu</b>, Mikhail Khodak, Nicholas Roberts, Ameet Talwalkar. <br><i>
+<i><b>Renbo Tu</b>, Mikhail Khodak, Nicholas Roberts, Ameet Talwalkar. <i>
 
-In Submission <br>
+In Submission 
 
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/2110.05668.pdf" target="_blank" rel="noopener">PDF</a><br><br>
 
 <a href="https://arxiv.org/abs/2106.04502"><u>Federated Hyperparameter Tuning: Challenges, Baselines, and Connections to Weight-Sharing</u></a><br>
-<i> Mikhail Khodak, <b> Renbo Tu</b>, Tian Li, Liam Li, Maria-Florina Balcan, Virginia Smith, Ameet Talwalkar. <br><i>
+<i> Mikhail Khodak, <b> Renbo Tu</b>, Tian Li, Liam Li, Maria-Florina Balcan, Virginia Smith, Ameet Talwalkar. <i>
 
-Neural Information Processing Systems (NeurIPS), 2021 <br>
+Neural Information Processing Systems (NeurIPS), 2021 
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/2106.04502.pdf" target="_blank" rel="noopener">PDF</a>
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/mkhodak/FedEx" target="_blank" rel="noopener">Code</a>
