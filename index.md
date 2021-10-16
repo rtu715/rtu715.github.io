@@ -16,7 +16,6 @@ My research is motivated by developing ML tools and frameworks to benefit variou
 </div><br>
 
 <h2> Select Publications </h2><br>
-<div>
 <a href="https://arxiv.org/abs/2110.05668"><u>NAS-Bench-360: Benchmarking Diverse Tasks for Neural Architecture Search</u></a><br>
 <i><b>Renbo Tu</b>, Mikhail Khodak, Nicholas Roberts, Ameet Talwalkar. <i><br>
 In Submission<br>
@@ -27,5 +26,5 @@ In Submission<br>
 Neural Information Processing Systems (NeurIPS), 2021<br>
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/2106.04502.pdf" target="_blank" rel="noopener">PDF</a>
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/mkhodak/FedEx" target="_blank" rel="noopener">Code</a>
-</div>
+
 
