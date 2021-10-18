@@ -25,6 +25,9 @@ In Submission<br>
 <i> Mikhail Khodak, <b> Renbo Tu</b>, Tian Li, Liam Li, Maria-Florina Balcan, Virginia Smith, Ameet Talwalkar. <i><br>
 Neural Information Processing Systems (NeurIPS), 2021<br>
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/2106.04502.pdf" target="_blank" rel="noopener">PDF</a>
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/mkhodak/FedEx" target="_blank" rel="noopener">Code</a>
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/mkhodak/FedEx" target="_blank" rel="noopener">Code</a><br><br>
 
 
+<a href='https://arxiv.org/abs/1804.11031'><u>Towards Deeper Generative Architectures for GANs using Dense connections</u></a><br>
+<i> Samarth Tripathi, <b> Renbo Tu</b>. <i><br>
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1804.11031.pdf" target="_blank" rel="noopener">PDF</a><br><br>
