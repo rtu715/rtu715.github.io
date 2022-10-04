@@ -14,14 +14,14 @@ author: Renbo2
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Resources:
     - GitHub: "https://github.com/rtu715"
     - Google Scholar: "https://scholar.google.com/citations?user=kxVvqtAAAAAJ&hl=en"
     - LinkedIn: "https://www.linkedin.com/in/renbotu/"
 
   NAS-Bench-360: "https://rtu715.github.io/NAS-Bench-360/"
-  CV: "/assets/Renbo_CV.pdf"
+  #CV: "/assets/Renbo_CV.pdf"
 
 # --- Logo --- #
 
@@ -42,7 +42,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "{my first name}@cmu.edu"
+  email: "{my first name}.{last name}@mail.utoronto.ca"
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
