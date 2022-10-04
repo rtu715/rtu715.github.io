@@ -24,9 +24,9 @@ Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/2110.05668.pdf" target="_blank" rel="noopener">PDF</a><br><br>
 
 <a href="https://openreview.net/forum?id=yWhuIjIjH8k"><u>NAS-Bench-Suite-Zero: Accelerating Research on Zero Cost Proxies</u></a><br>
-<i><b>Arjun Krishnakumar*, Colin White*, Arber Zela*, <b>Renbo Tu*</b>, Mahmoud Safari, Frank Hutter. <i> <br>
+<i>Arjun Krishnakumar*, Colin White*, Arber Zela*, <b>Renbo Tu*</b>, Mahmoud Safari, Frank Hutter. <i> <br>
 Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2022<br>
-<a class="btn btn-primary btn-outline btn-xs" href="https://openreview.net/pdf?id=yWhuIjIjH8k" target="_blank" rel="noopener">PDF</a><br><br>
+<a class="btn btn-primary btn-outline btn-xs" href="https://openreview.net/pdf?id=yWhuIjIjH8k" target="_blank" rel="noopener">PDF</a>
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/automl/naslib/tree/zerocost
 " target="_blank" rel="noopener">Code</a>
 
