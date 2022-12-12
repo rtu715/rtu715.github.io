@@ -22,7 +22,7 @@ In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence 
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/2212.03125.pdf" target="_blank" rel="noopener">PDF</a><br><br>
 
 <a href="https://arxiv.org/abs/2110.05668"><u>NAS-Bench-360: Benchmarking Diverse Tasks for Neural Architecture Search</u></a><br>
-<i>Renbo Tu*, Nicholas Roberts*, Mikhail Khodak, Junhong Shen, Frederic Sala, Ameet Talwalkar. <i><br>
+<i><b>Renbo Tu*</b>, Nicholas Roberts*, Mikhail Khodak, Junhong Shen, Frederic Sala, Ameet Talwalkar. <i><br>
 Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks, 2022<br>
 <a class="btn btn-primary btn-outline btn-xs" href="https://nb360.ml.cmu.edu/" target="_blank" rel="noopener">Website</a>
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/rtu715/NAS-Bench-360" target="_blank" rel="noopener">Code</a>
