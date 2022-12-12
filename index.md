@@ -51,8 +51,8 @@ Neural Information Processing Systems (NeurIPS), 2021<br>
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/mkhodak/FedEx" target="_blank" rel="noopener">Code</a><br><br>
 
 <a href="https://iclr-blog-track.github.io/2022/03/25/zero-cost-proxies/"><u>A Deeper Look at Zero-Cost Proxies for Lightweight NAS </u></a><br>
-<i> Colin White, Mikhail Khodak, Renbo Tu, Shital Shah, Sébastien Bubeck, Debadeepta Dey. <i><br>
-ICLR Blog, 2022<br>
+<i> Colin White, Mikhail Khodak, <b>Renbo Tu</b>, Shital Shah, Sébastien Bubeck, Debadeepta Dey. <i><br>
+International Conference on Learning Representations (ICLR) Blog, 2022<br>
 <a class="btn btn-primary btn-outline btn-xs" href="https://iclr-blog-track.github.io/2022/03/25/zero-cost-proxies/" target="_blank" rel="noopener">Blog</a><br><br>
 
 
