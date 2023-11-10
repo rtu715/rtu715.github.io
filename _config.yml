@@ -9,12 +9,12 @@
 title: Renbo Tu
 
 # Your name to show in the footer
-author: Renbo2
+author: R2
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #About Me: "aboutme"
+  About Me: "aboutme"
   Resources:
     - GitHub: "https://github.com/rtu715"
     - Google Scholar: "https://scholar.google.com/citations?user=kxVvqtAAAAAJ&hl=en"

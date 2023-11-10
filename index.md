@@ -10,16 +10,11 @@ subtitle: "Sapere aude! 'Have courage to use your own understanding!' -- that is
 <div id="aboutme-section">
 
 <p class="about-text">
-Welcome! I'm currently a PhD student at the Computer Science department of University of Toronto. My advisor is <a target="_blank" href="https://www.cs.toronto.edu/~pekhimenko/"> Gennady Pekhimenko </a>. 
-My research is motivated by developing ML tools and frameworks to benefit various end users, current including but not limited to the fields of neural architecture search and federated learning. I finished my Master of Science in Machine Learning at CMU, and I earned my Bachelor of Arts degree in Computer Science and History from Columbia University.
+Welcome! I'm currently a PhD student at the Computer Science department of University of Toronto. My advisor is <a target="_blank" href="https://www.cs.toronto.edu/~pekhimenko/"> Gennady Pekhimenko</a>. 
+I am motivated by the possibilities that state-of-the-art machine learning (ML) tools present for addressing challenges within the natural and social sciences. I completed my Master of Science in Machine Learning at Carnegie Mellon University (CMU) and obtained a Bachelor of Arts in Computer Science and History from Columbia University.
 </p>
-</div><br>
 
 <h2> Select Publications </h2><br>
-<a href="https://arxiv.org/abs/2212.03125"><u>Self-supervised and Weakly Supervised Contrastive Learning for Frame-wise Action Representations</u></a><br>
-<i>Minghao Chen*, <b>Renbo Tu*</b>, Chenxi Huang, Yuqi Lin, Boxi Wu, Deng Cai. <i><br>
-In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022<br>
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/2212.03125.pdf" target="_blank" rel="noopener">PDF</a><br><br>
 
 <a href="https://arxiv.org/abs/2110.05668"><u>NAS-Bench-360: Benchmarking Diverse Tasks for Neural Architecture Search</u></a><br>
 <i>*Renbo Tu, *Nicholas Roberts, Mikhail Khodak, Junhong Shen, Frederic Sala, Ameet Talwalkar. <i><br>
@@ -54,9 +49,3 @@ Neural Information Processing Systems (NeurIPS), 2021<br>
 International Conference on Learning Representations (ICLR) Blog, 2022<br>
 <a class="btn btn-primary btn-outline btn-xs" href="https://iclr-blog-track.github.io/2022/03/25/zero-cost-proxies/" target="_blank" rel="noopener">Blog</a><br><br>
 
-
-
-
-<a href='https://arxiv.org/abs/1804.11031'><u>Towards Deeper Generative Architectures for GANs using Dense connections</u></a><br>
-<i> Samarth Tripathi, <b> Renbo Tu</b>. <i><br>
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1804.11031.pdf" target="_blank" rel="noopener">PDF</a><br><br>
