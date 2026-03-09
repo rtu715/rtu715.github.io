@@ -14,14 +14,13 @@ author: R2
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Resources:
     - GitHub: "https://github.com/rtu715"
     - Google Scholar: "https://scholar.google.com/citations?user=kxVvqtAAAAAJ&hl=en"
     - LinkedIn: "https://www.linkedin.com/in/renbotu/"
 
   NAS-Bench-360: "https://rtu715.github.io/NAS-Bench-360/"
-  #CV: "/assets/Renbo_CV.pdf"
+  BHCast: "https://pi-vision.github.io/publications/bhcast/"
 
 # --- Logo --- #
 
