@@ -1,0 +1,27 @@
+/* Shared styles for index.html and publications.html. */
+:root{--bg:#fff;--fg:#111;--mute:#6b6b6b;--line:#d9d9d9}
+@media (prefers-color-scheme: dark){:root{--bg:#121212;--fg:#e6e6e6;--mute:#999;--line:#444}}
+html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+main{max-width:640px;margin:0 auto;padding:88px 24px 72px}
+a{color:inherit;text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px}
+a:hover{text-decoration-color:currentColor}
+header{display:flex;align-items:center;gap:20px;margin-bottom:28px}
+header img{width:84px;height:84px;object-fit:cover;display:block}
+h1{font-size:20px;font-weight:600;margin:0;letter-spacing:-.01em}
+header p{margin:0;color:var(--mute)}
+p{margin:0 0 14px}
+.links a{margin-right:16px}
+h2{font-size:16px;font-weight:600;margin:52px 0 18px}
+ul{list-style:none;padding:0;margin:0}
+li{margin-bottom:20px}
+li>a{text-decoration:none;font-weight:500}
+li>a:hover{text-decoration:underline}
+li .a,li .v{display:block;color:var(--mute)}
+li .a b{color:var(--fg);font-weight:600}
+li .v a{margin-left:10px}
+.note{color:var(--mute);font-size:14px;margin-top:28px}
+@media (max-width:600px){main{padding-top:48px}header img{width:64px;height:64px}}
+.more{margin-top:8px}
+.back{color:var(--mute);margin-bottom:28px}
+h2.year{margin:40px 0 16px;color:var(--mute);font-weight:500}
