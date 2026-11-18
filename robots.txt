@@ -1,0 +1,16 @@
+# Ask AI-training crawlers not to collect this site; search engines may still index it.
+# This is a request that the major crawlers honour, not an access control.
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: *
+Allow: /
